@@ -1,2 +1,2 @@
 # CAR-MPI
-This repository store some examples of programing wiht MPI in C
+This repository store some examples of programing with MPI in C
